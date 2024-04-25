@@ -3,6 +3,7 @@ CURD OPERATIONS USING SQL AT XAMPP AND JS, NODE JS
 start xampp
 
 go to server folder 
+
 npm install 
 
 first run backend server
